@@ -2,6 +2,7 @@
 
 # Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
+2. [Quick-Start Guide](#quick-start-guide)
    
 # Wayback Analysis
 The internet has evolved a lot over the past few years and one major aspect that has seen a big shift is the design and look of websites. Today I will be looking at some of the websites I visit regularly and examine different design details that have changed throughout the years. I’ll also look to understand if websites present today have a broad structure that is followed across multiple different websites.
@@ -19,3 +20,14 @@ Accessing the articles there are also some key differences between the layout of
 Another website that I usually often is the popular livestreaming service [twitch.tv](https://twitch.tv). I will comparing the present day version of the website to an archived version from December 2nd, 2011. The current version of the site uses a lot of the screen space, presenting thumbnails for livestreams in a bigger rectangle compared to the 2011 version. The current version also adds a sidebar that includes livestreams of people I follow, recommended streams to watch, and stories. Both sites still have a similar structure of showing carousels of livestreams and having a stream playing at the top when loaded. Other additional information is still present on both versions, such as, viewer count and channel name. The overall information that is presented is similar with a lot of differences being in the design of the site and the utilization of elements like gradients and shadows.
 
 Overall, the design of sites have changed quite a lot in the past few years with the designs of sites constantly evolving and changing to meet the different needs of its users. One aspect that has changed over the decade is the growth of smartphones and people accessing websites from their phone. This required sites to design versions of their sites that are compatible for the screens of a smartphone. Another change has been the design language has been moving towards are more minimal and simple look. Many websites feel more flat and show the most important information more prominently.
+
+# Quick-Start Guide
+To use the Audio-Technica AT-LP60X Turntable, you will need some other equipment like a pair of speakers and a vinyl.
+
+1. First, take out everything that comes in the box. This will include the turntable, an RCA output cable, DC power cable, and a removable hinged dust cover.
+   ![Figure 1. Turntable (Image by Amazon)](Turntable.jpg)
+Figure 1 Turntable
+   ![Figure 2. DC Power Cable and RCA Output Cable (Image by Amazon)](Accessories.png)
+2. Next we will connect all the wires for the turntable. We’ll start by plugging the 3.5mm jack (Shown in figure #) on the RCA output cable into the ‘ANALOG OUT’ port on the back of the turntable (Figure 3). Plug the other end of the RCA output cable into to the plugs on the speaker. Next, plug the DC barrel into the ‘DC IN 12V’ port on the back of the turntable and the other end into an available power outlet.
+   
+3. Now the turntable is connected to the speakers and has power. To use the removable dust cover, place the hinges into the slots on the back of the turntable. Place the slip mat onto the turntable, then place the vinyl on top of the slip mat. Make sure to adjust the size using the switch and the speed using the button that correlates to your vinyl. Most album vinyls will be 12” size and at a 33 speed. 
