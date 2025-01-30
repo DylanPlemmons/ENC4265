@@ -25,9 +25,18 @@ Overall, the design of sites have changed quite a lot in the past few years with
 To use the Audio-Technica AT-LP60X Turntable, you will need some other equipment like a pair of speakers and a vinyl.
 
 1. First, take out everything that comes in the box. This will include the turntable, an RCA output cable, DC power cable, and a removable hinged dust cover.
-   ![Figure 1. Turntable (Image by Amazon)](Turntable.jpg)
-Figure 1 Turntable
-   ![Figure 2. DC Power Cable and RCA Output Cable (Image by Amazon)](Accessories.png)
-2. Next we will connect all the wires for the turntable. We’ll start by plugging the 3.5mm jack (Shown in figure #) on the RCA output cable into the ‘ANALOG OUT’ port on the back of the turntable (Figure 3). Plug the other end of the RCA output cable into to the plugs on the speaker. Next, plug the DC barrel into the ‘DC IN 12V’ port on the back of the turntable and the other end into an available power outlet.
+<p style="text-align:center;"><img src="Turntable.jpg" alt="Turntable" width="400px" height="400px"/>
    
-3. Now the turntable is connected to the speakers and has power. To use the removable dust cover, place the hinges into the slots on the back of the turntable. Place the slip mat onto the turntable, then place the vinyl on top of the slip mat. Make sure to adjust the size using the switch and the speed using the button that correlates to your vinyl. Most album vinyls will be 12” size and at a 33 speed. 
+   Figure 1. Turntable
+   
+   <img src="Accessories.png" alt="DC Power Cable (Left) and RCA Output Cable (Right)" width="700px" height="400px" />
+   
+   Figure 2. DC Power Cable (Left) and RCA Output Cable (Right) </p>
+   
+2. Connect all the wires for the turntable. We’ll start by plugging the 3.5mm jack (Shown in figure #) on the RCA output cable into the ‘ANALOG OUT’ port on the back of the turntable (Figure 3). Plug the other end of the RCA output cable into to the plugs on the speaker.
+
+3. Plug the DC barrel into the ‘DC IN 12V’ port on the back of the turntable and the other end into an available power outlet.
+   
+4. Now the turntable is connected to the speakers and has power. To use the removable dust cover, place the hinges into the slots on the back of the turntable. Place the slip mat onto the turntable, then place the vinyl on top of the slip mat.
+
+5. Adjust the record size on the turntable using the switch and the speed using the button that correlates to your vinyl. Most album vinyls will be 12” in size and spin at 33 rotations per minute speed. 
