@@ -37,7 +37,7 @@ I will show you how to set up a turntable to start listening to vinyls. I will b
 <p style="text-align:center;"><img src="TurntableBack.png" alt="Back of Turntable" width="700px" height="200px" /></p>
 <p style="text-align:center;">Figure 3. Back of Turntable</p>
 
-<p style="text-align:center;"><img src="HeadphoneJack.png" alt="3.5mm Jack" width="400px" height="400px" />
+<p style="text-align:center;"><img src="HeadphoneJack.png" alt="3.5mm Jack" width="400px" height="400px" /></p>
 <p style="text-align:center;">Figure 4. 3.5mm Headphone Jack</p>
 
 3. **Plug** the DC barrel into the ‘DC IN 12V’ port on the back of the turntable (Figure 3) and the other end into an available power outlet.
