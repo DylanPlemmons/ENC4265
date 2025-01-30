@@ -32,7 +32,7 @@ I will show you how to set up a turntable to start listening to vinyls. I will b
    
 <p style="text-align:center;"><img src="Accessories.png" alt="DC Power Cable (Left) and RCA Output Cable (Right)" width="700px" height="400px" /></p>  
 <p style="text-align:center;">Figure 2. DC Power Cable (Left) and RCA Output Cable (Right)</p>
-   
+
 2. **Connect** all the wires for the turntable. We’ll start by plugging the 3.5mm jack (Shown in figure 4) on the RCA output cable into the ‘ANALOG OUT’ port on the back of the turntable (Figure 3). Plug the other end of the RCA output cable into to the plugs on the speaker.
 <p style="text-align:center;"><img src="TurntableBack.png" alt="Back of Turntable" width="700px" height="200px" /></p>
 <p style="text-align:center;">Figure 3. Back of Turntable</p>
