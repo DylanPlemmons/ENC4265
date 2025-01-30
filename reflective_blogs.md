@@ -24,7 +24,7 @@ Overall, the design of sites have changed quite a lot in the past few years with
 **AI Statement**: This blog does not include artificial intelligence written language.
 
 # Quick-Start Guide
-I will show you how to set up a turntable to start listening to vinyls. I will be using the Audio-Technica AT-LP60X Turntable for this guide. You will need some other equipment like a pair of speakers that supports an RCA connetion and a vinyl.
+I will show you how to set up a turntable to start listening to vinyls. I will be using the [Audio-Technica AT-LP60X Turntable](https://a.co/d/71KZdZP) for this guide. You will need some other equipment like a pair of speakers that supports an RCA connetion and a vinyl.
 
 1. First, take out everything that comes in the box. This will include the turntable, an RCA output cable, DC power cable, and a removable hinged dust cover.
 <p style="text-align:center;"><img src="Turntable.jpg" alt="Turntable" width="400px" height="400px"/> </p> 
