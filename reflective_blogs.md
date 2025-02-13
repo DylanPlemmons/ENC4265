@@ -41,3 +41,10 @@ I will show you how to set up a turntable to start listening to vinyls. I will b
 5. **Adjust** the record size on the turntable using the switch and the speed using the button that correlates to your vinyl. Most album vinyls will be 12” in size and spin at 33 rotations per minute speed. 
 
 **AI Statement**: This blog does not include artificial intelligence written language.
+
+# Voyant Analysis
+Use [Voyant](https://voyant-tools.org/) to analyze a manual, website, or other large body of text. What words are used the most? What can this software tell you about a piece of writing?
+
+I used the manual to the [MSI Z390-A Pro Motherboard](https://download-2.msi.com/archive/mnu_exe/mb/E7B98v1.2.pdf) in Voyant to analyze the text. The software helps to analyze text and find patterns and insight on a piece of text. Some of the words that were used the most were BIOS at 143 uses, power with 115 uses, and intel with 106 uses. The software is able to examine words and phrases that are the most used in a document and creates multiple types of graphics for it. One graph shows trends of where the most common words are used in segments of the document. This could be used to find parts of the document that focus on the word that you are looking for. One instance for the motherboard manual is in the 4th segment is where a majority of the word BIOS is used, meaning that part of the document has information about the BIOS and probably how to use it and explains what many of the options do. Another feature of the site is the links bubble map, which shows the most common terms and links it to other words that are used with the term. Voyant can be very helpful on understanding a document and the patterns/structure of the piece of text.
+
+**AI Statement**: Only spell check was used to improve the writing on this assignment.
