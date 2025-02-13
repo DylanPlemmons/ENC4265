@@ -3,6 +3,7 @@
 # Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick-Start Guide](#quick-start-guide)
+3. [Voyant Analysis](#voyant-analysis)
    
 # Wayback Analysis
 The internet has evolved a lot over the past few years and one major aspect that has seen a big shift is the design and look of websites. Today I will be looking at some of the websites I visit regularly and examine different design details that have changed throughout the years. I’ll also look to understand if websites present today have a broad structure that is followed across multiple different websites.
