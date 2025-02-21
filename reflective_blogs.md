@@ -4,6 +4,7 @@
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick-Start Guide](#quick-start-guide)
 3. [Voyant Analysis](#voyant-analysis)
+4. [Manual Assessment](#manual-assessment)
    
 # Wayback Analysis
 The internet has evolved a lot over the past few years and one major aspect that has seen a big shift is the design and look of websites. Today I will be looking at some of the websites I visit regularly and examine different design details that have changed throughout the years. I’ll also look to understand if websites present today have a broad structure that is followed across multiple different websites.
@@ -47,5 +48,12 @@ I will show you how to set up a turntable to start listening to vinyls. I will b
 Use [Voyant](https://voyant-tools.org/) to analyze a manual, website, or other large body of text. What words are used the most? What can this software tell you about a piece of writing?
 
 I used the manual to the [MSI Z390-A Pro Motherboard](https://download-2.msi.com/archive/mnu_exe/mb/E7B98v1.2.pdf) in Voyant to analyze the text. The software helps to analyze text and find patterns and insight on a piece of text. Some of the words that were used the most were BIOS at 143 uses, power with 115 uses, and intel with 106 uses. The software is able to examine words and phrases that are the most used in a document and creates multiple types of graphics for it. One graph shows trends of where the most common words are used in segments of the document. This could be used to find parts of the document that focus on the word that you are looking for. One instance for the motherboard manual is in the 4th segment is where a majority of the word BIOS is used, meaning that part of the document has information about the BIOS and probably how to use it and explains what many of the options do. Another feature of the site is the links bubble map, which shows the most common terms and links it to other words that are used with the term. Voyant can be very helpful on understanding a document and the patterns/structure of the piece of text.
+
+**AI Statement**: Only spell check was used to improve the writing on this assignment.
+
+# Manual Assessment
+**Prompt D:** Explore an online tutorial, manual, or reference guide/FAQ page. Give it an honest but professional assessment. Describe in your post the aspects of the page(s) that are effective, and explain why. Describe the aspects of the page(s) that are ineffective, and explain why.
+
+I will be providing an assessment on the [Volkswagen Jetta 2023 Owners Manual](https://www.manua.ls/volkswagen/jetta-2023/manual). Some of the aspects that are effective for the manual is the use of icons and imagery to help visualize parts of the manual. The inclusion of icons that are colored help to bring attention to important information, such as, a red caution symbol next to text that explains dangers and how to be safe. The images in the manual are used to show what certain buttons and other parts of the car do. Some aspects of the manual that could be changed is adding additional information on functions/accessories that are optional upgrades or only available on certain trims. It could be easy for a reader to believe they have a function that is explained in the manual but is not available on their car.
 
 **AI Statement**: Only spell check was used to improve the writing on this assignment.
