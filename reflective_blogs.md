@@ -5,6 +5,7 @@
 2. [Quick-Start Guide](#quick-start-guide)
 3. [Voyant Analysis](#voyant-analysis)
 4. [Manual Assessment](#manual-assessment)
+5. [Chatbot Analysis](#chatbot-analysis)
    
 # Wayback Analysis
 The internet has evolved a lot over the past few years and one major aspect that has seen a big shift is the design and look of websites. Today I will be looking at some of the websites I visit regularly and examine different design details that have changed throughout the years. I’ll also look to understand if websites present today have a broad structure that is followed across multiple different websites.
@@ -55,5 +56,12 @@ I used the manual to the [MSI Z390-A Pro Motherboard](https://download-2.msi.com
 **Prompt D:** Explore an online tutorial, manual, or reference guide/FAQ page. Give it an honest but professional assessment. Describe in your post the aspects of the page(s) that are effective, and explain why. Describe the aspects of the page(s) that are ineffective, and explain why.
 
 I will be providing an assessment on the [Volkswagen Jetta 2023 Owners Manual](https://www.manua.ls/volkswagen/jetta-2023/manual). Some of the aspects that are effective for the manual is the use of icons and imagery to help visualize parts of the manual. The inclusion of icons that are colored help to bring attention to important information, such as, a red caution symbol next to text that explains dangers and how to be safe. The images in the manual are used to show what certain buttons and other parts of the car do. Some aspects of the manual that could be changed is adding additional information on functions/accessories that are optional upgrades or only available on certain trims. It could be easy for a reader to believe they have a function that is explained in the manual but is not available on their car.
+
+**AI Statement**: Only spell check was used to improve the writing on this assignment.
+
+# Chatbot Analysis
+Prompt: Analyze a chatbot. Spend at least 5 minutes interacting with it & exploring its functionality. Then, reflect on the bot's: **purpose, functionality**, **user experience**, and **context**
+
+I spoke with the [Movie Critic Bot](https://box.boodle.ai/a/role-moviecritic) from BoodleBox. The purpose of the bot is to discuss movies with the user, explaining the themes and plots behind each film. The chatbot functions exactly how it is described and provides examples of movies and then discusses the movie and providing its thoughts and take aways from the movie. The chat bot was very easy to use, one thing that made it easy to talk with it is it provided additional questions for me at the end of each of its responses. This allowed me and the bot to continue talking about different movies, what we enjoyed about them, the themes, and providing me with additional movies to watch. Talking with the bot has provided me with new movies to watch that it believes I would enjoy based off my favorite movies and why I like the movies.
 
 **AI Statement**: Only spell check was used to improve the writing on this assignment.
