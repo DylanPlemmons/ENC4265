@@ -7,6 +7,7 @@
 4. [Manual Assessment](#manual-assessment)
 5. [Chatbot Analysis](#chatbot-analysis)
 6. [AI Resume Reivision](#ai-resume-revision)
+7. [NotebookLM Analysis](#notebooklm-analysis)
    
 # Wayback Analysis
 The internet has evolved a lot over the past few years and one major aspect that has seen a big shift is the design and look of websites. Today I will be looking at some of the websites I visit regularly and examine different design details that have changed throughout the years. I’ll also look to understand if websites present today have a broad structure that is followed across multiple different websites.
@@ -73,3 +74,10 @@ Prompt: Upload your resume (without your address, phone number, and email) to a 
 I uploaded my resume to Claude 3.7 Sonnet and asked which position suited me best based on my resume. The response was positions in network operations and IT infrastructure management. I then asked it to revise my resume for network operation and cybersecurity analyst positions. Some of the changes it made to my resume include rewriting the professional summary to focus on security and troubleshooting abilities. Claude also strengthened my job descriptions by adding quantifiable statistics and also included specific wording for security focused jobs. It also recommended adding a projects and additional experience section that could include any cybersecurity capture the flag competitions or home projects. Some things I learned from the AI is to add specific wording and details that are specific to the job role I am looking to achieve. In the case of my resume it added security specific and network operation skills and responsibilities.
 
 **AI Statement**: Claude 3.7 Sonnet was used during the assignment to revise my resume. Spell check was used to improve the writing on this assignment.
+
+# NotebookLM Analysis
+**Prompt:** Use [NotebookLM](https://notebooklm.google/?gad_source=1&gclid=EAIaIQobChMIwYOAudqligMVlptaBR2etzSYEAAYASAAEgL6CfD_BwE) to analyze a manual from the web. Share a brief report describing your process, the manual, and your thoughts on the tool. What did it make easier for you? What was not easy? What do you think about the use of this AI for your future career?
+
+The manual I provided to NotebookLM was the User’s Guide to Brother MFC-J1010DW Printer. The manual provided is 534 pages, which took the application about a few minutes to fully analyze when added to my sources. First, I asked it to summarize the guide and it provided a bullet list of some of the features and the main themes of the user guide. I also asked it what the functions of the printer included and it had provided another list that was sectioned by each main function. The tool was able to answer questions about the printer based off the manual that would’ve taken a lot longer to manually find in the user guide. It also provided a page number/reference for where to find the answer to my questions. The tool was quite easy to use and allowed an easier experience to find information in the manual but one problem was the addition of information that wasn’t useful. In the summarization of manual, it provided points on trademarks and liabilities. NotebookLM could have positive uses in my future career with the ability to provide summaries and ask questions on research papers. Looking for a future in cybersecurity, new papers and techniques are published everyday and being able to add it to the tool and have a summary will speed up the learning process.
+
+**AI Statement**: Only spell check was used to improve the writing on this assignment.
