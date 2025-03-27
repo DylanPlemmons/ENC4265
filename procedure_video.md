@@ -3,7 +3,12 @@
 
 # Procedure Video
 
-[![Watch the video](https://img.youtube.com/vi/iadzYtX4ERU/maxresdefault.jpg)](https://youtu.be/iadzYtX4ERU)
+[![Watch the video](https://img.youtube.com/vi/Drhj8xwMCx8/maxresdefault.jpg)](https://youtu.be/Drhj8xwMCx8)
 
-### [Watch this video on YouTube](https://youtu.be/iadzYtX4ERU)
+### [Procedure Video](https://youtu.be/Drhj8xwMCx8)
+
+# Tools Used
+Powerpoint Slides - Used to produce and record the video/audio
+
+Youtube - Hosts the video and auto-generated subtitles
 
