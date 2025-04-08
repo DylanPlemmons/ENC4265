@@ -24,7 +24,7 @@ First we will look into the installation steps for pfSense. For this guide I wil
 
 First, download the latest version of the pfSense ISO image from the official website at https://www.pfsense.org/download/. The software for pfSense is free to use but requires an account to download the latest ISO image. 
 
-![image.png](attachment:ba76dc22-4c3b-4910-ba25-ea2f814c02f2:image.png)
+![image.png](Manual-Images/image.png)
 
 The webpage will look similar to the above screenshot. Click the download button to be transferred to the next page where you will choose the installation image.
 
