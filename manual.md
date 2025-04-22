@@ -7,6 +7,7 @@
 - [Installation](#Installation)
 - [Initial Configuration](#Initial-Configuration)
 - [Firewall Configuration](#Firewall-Configuration)
+- [Conclusion](#Conclusion)
 
 ## Introduction
 
@@ -84,8 +85,20 @@ To configure Firewall rules, first select the dropdown menu title “Firewall”
 
 ![image.png](ManualImages/image14.png)
 
+This will bring you to the page to create the rules and edit them. We will be creating a simple firewall rule that allows all HTTPS traffic from inside the network to the outside. This rule essentially allows for secure internet access. Under the “Destination” block, we will choose WAN Address as the Destination and the Destination Port Range we will select HTTPS (443) for both From and To options. If you would like more information on what each option does you can visit the pfSense docs at https://docs.netgate.com/pfsense/en/latest/firewall/configure.html.
+
 ![image.png](ManualImages/image15.png)
+
+Now that we have the settings configured, we’ll want to give it a name and save the rule. Change the description to what best describes the firewall rule, here I put “Allows All HTTPS Traffic”. Next click the blue “Save” button.
 
 ![image.png](ManualImages/image16.png)
 
+The firewall rule has now been added to our other rules as we can see. We will also need to apply the rule for it to take affect on pfSense. Press the green button labelled “Apply Changes”.
+
 ![image.png](ManualImages/image17.png)
+
+## Conclusion
+
+Setting up a firewall with pfSense may seem daunting at first, but as this guide has shown, it is a manageable and rewarding process. With pfSense, you gain powerful tools to protect your network, control traffic, and ensure secure communication. By following the steps outlined in this manual—from installation to configuring firewall rules—you now have a solid foundation for maintaining a safer and more efficient network. As you become more familiar with pfSense’s features, you can further customize and enhance your firewall to meet your specific needs. Regular updates, monitoring, and thoughtful rule management will ensure your network remains secure and resilient against evolving threats.
+
+AI Statement: Google Gemini was used to provide a top-level overview of structuring the manual. ChatGPT 4o was used to edit and provide a conclusion on the manual. Spell check was used to improve the writing on this assignment.
