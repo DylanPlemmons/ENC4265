@@ -3,11 +3,11 @@
 # Manual 
 
 # How to Set Up a Firewall using pfSense
-- [Introduction](#Introduction)
-- [Installation](#Installation)
-- [Initial Configuration](#Initial-Configuration)
-- [Firewall Configuration](#Firewall-Configuration)
-- [Conclusion](#Conclusion)
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Initial Configuration](#initial-configuration)
+- [Firewall Configuration](#firewall-configuration)
+- [Conclusion](#conclusion)
 
 ## Introduction
 
